@@ -4,6 +4,6 @@ myP = addEventListener("click", stuff);
 
 function stuff() {
   alert(
-    "Love the content bro, also i can't get into zoom.  i keep getting an error: 114something "
+    "Love the content bro, i wannted to make it mobile responsive but i was out of time * I can't join the zoom meet*"
   );
 }
